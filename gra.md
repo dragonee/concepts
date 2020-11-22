@@ -21,8 +21,8 @@ metodą prób i błędów);
 
 **Graczem** jest człowiek lub instytucja, któremu przypisujemy pozycję w grze.
 
-**Agentem** jest człowiek, instytucja lub narracja, które mogą oddziaływać
-na graczy.
+**Agentem** jest człowiek, instytucja, narracja lub pewne ich złożenie, 
+które mogą oddziaływać na graczy bądź innych agentów.
 
 Dobre rozróżnienie gracza od agenta ukazuje poniższy przykład: plotka 
 o wygrywającej strategii w pokera nie jest sama w sobie graczem, 
@@ -40,28 +40,73 @@ zasobów).
 
 ## Ujęcie systemowe
 
-Patrząc na całość systemu gry, pierwszą rzeczą, którą warto zauważyć
-jest pętla zwrotna związana z akumulowaniem wiedzy przez graczy o grze.
+Patrząc na całość systemu gry, jedną z jego podstawowych cech jest
+istnienie wiedzy (na której gracze mogą polegać) o tym systemie,
+wewnątrz tego systemu. Ta dynamika, którą możemy nazwać 
+**zrozumieniem gry**, zmienia grę z czasem.
+
+### Istota wiedzy o grze
+
+Wiedza o grze jest wiedzą o ograniczonej stosowalności. 
+Gdyby nie istnienie systemu gry, wiedza ta prawdopodobnie by nie istniała. 
+Zapewne jest też mało przekładalna na inne systemy, jeśli uwzględnimy 
+wszystkie jej szczegóły.
+
+Wiedza jest przydatna – tj. gracz posiadający wiedzę o grze, ma większe
+szanse zdobycia wyższej pozycji niż gracz, który jej nie posiada.
+Wyjątkiem są fałszywe (celowo lub przypadkowo) narracje, które
+wprowadzają graczy w błąd lub w podejmowanie działań o skutkach
+gorszych niż bez znajomości tej wiedzy. Taka sytuacja może się zdarzyć w
+przypadku, gdy nie da się jasno określić zależności
+przyczynowo-skutkowych między stanem obecnym a przyszłym w grze.
+
 Najczęściej gracze będą posiadali część wiedzy wspólnej (która może być
 publicznie osiągalna lub łatwa do zdobycia przez każdego gracza), oraz
 część wiedzy ukrytej, dającej danemu graczowi tymczasową przewagę nad
 innymi graczami.
 
-Notaka: bardzo często interakcje pomiędzy graczami zdradzają strategię
-danego gracza, więc najprawdopodobniej z czasem ilość wiedzy wspólnej
-będzie rosnąć, a wiedzę ukrytą najsilniejsi gracze muszą zdobywać na
-nowo, badając system w danym momencie.
+Gra może wymuszać na graczach dzielenie się wiedzą. Dzieje się tak
+wtedy, kiedy interakcje, w które wchodzą ze sobą gracze wymagają
+ujawnienia części informacji pomiędzy nimi. Dla przykładu, gracz
+rozgrywający partię szachów ujawnia swoje ruchy, chociaż jego intencje
+są ukryte przed jego przeciwnikiem. W wielu grach zjawisko to występuje.
 
-Ta dynamika, którą możemy nazwać **zrozumieniem gry** zmienia grę z
-czasem. Możliwe jest tu kilka wariantów:
+Konsekwencją celowego (bądź wymuszonego) wymieniania się wiedzą jest
+sytuacja, w której z czasem ilość wiedzy wspólnej rośnie. 
+
+Efekt: gracze muszą ciągle poszukiwać wiedzy ukrytej lub gra sprowadza
+się do umiejętności wykorzystania wiedzy w różnych sytuacjach.
+
+
+### Modyfikacja gry poprzez jej zrozumienie
+
+Zrozumienie gry jest pewną formą pętli zwrotnej – system pozwala na
+zrozumienie jego zasad, zrozumienie zasad wpływa na przyszłość systemu.
+Jest to typowe dla systemów opartych na ludzkiej współpracy 
+(w odróżnieniu od zasad fizyki, które są niezmienne niezależnie od tego 
+jak wiele wiedzy nasza cywilizacja odkryła do tej pory).
+
+Pętla zwrotna wynika z akumulowania wiedzy przez graczy o grze i
+dostosowywaniu swoich wzorców zachowań do obecnej wiedzy. To najczęściej
+prowadzi do sytuacji, w której gracze spośród nieskończonej ilości
+możliwych zachowań zaczynają preferować ich podzbiór, skuteczniejszy od
+innych w danym momencie. Różne przyszłości tej dynamiki są możliwe:
 
 1. Gra zawsze będzie się zmieniać z czasem, nigdy nie zbiegając się do
-jednego zestawu wiodących strategii.
+jednego zestawu wiodących strategii. W tej dynamice możliwe jest
+wystąpienie pewnych powtarzalnych wzorców na dużych przestrzeniach
+czasowych lub w danych zagregowanych.
 2. Gra zbiega się do jednego zestawu wiodących strategii, a te z czasem
 stają się coraz bardziej zoptymalizowane pod kątem walki z pozostałymi
-wiodącymi strategiami (co niejako usztywnia całą grę).
+wiodącymi strategiami. Te strategie, mimo że są coraz bardziej
+wyspecjalizowane względem siebie, stają się bardziej podatne na nieznane
+w danym momencie czynniki, dzięki czemu pojawienie się nieprzewidywanej
+sytuacji może łatwiej lub bardziej zaburzyć system.
 
-## Metagra
+Lista ta nie wyczerpuje możliwości zachowań występujących w ramach tej
+pętli zwrotnej. 
+
+### Metagra
 
 Metagrą nazywamy dwa związane ze sobą pojęcia.
 
@@ -87,7 +132,7 @@ zrozumieć miarę zmienności strategii w grze – lub żeby spróbować odcią�
 strategie, które na pewno nie będą nam przydatne w przyszłości. O takich
 danych marzą np. analitycy i progności finansowi, rynki predykcyjne.
 Należy jednak bardzo ostrożnie podchodzić do prób przewidywania
-przyszłości.
+przyszłości. Przykładem takich trendów są cykle koniukturalne.
 
 Zgaduję, że trzecia i dalsze pochodne są już coraz mniej przydatne dla
 nas, ponieważ z każdą kolejną pochodną zmniejsza się ilość przydatnych
@@ -219,3 +264,5 @@ Oba te mechanizmy generują nam dynamiczny system, który dla mnie spełnia
 definicji gry - chcąc zachować swój udział w grze i profesjonalni
 gracze, i twórcy gry modyfikują stan systemu i przesuwają go w swoim
 kierunku.
+
+TODO: rozłam gry, wydzielanie podgier, innowacje i nisze
