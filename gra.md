@@ -22,7 +22,8 @@ metodą prób i błędów);
 **Graczem** jest człowiek lub instytucja, któremu przypisujemy pozycję w grze.
 
 **Agentem** jest człowiek, instytucja, narracja lub pewne ich złożenie, 
-które mogą oddziaływać na graczy bądź innych agentów.
+które mogą oddziaływać na graczy bądź innych agentów. Zobacz:
+[Agent](agent.md)
 
 Dobre rozróżnienie gracza od agenta ukazuje poniższy przykład: plotka 
 o wygrywającej strategii w pokera nie jest sama w sobie graczem, 
