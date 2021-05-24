@@ -9,6 +9,14 @@ Baudrillard musiał rzucać swoim francuskim dziewczynom dla pikanterii.
 
 ## Precesja symulakrów
 
+Co zawiera ten rozdział:
+
+- dramatyczny opis ekosystemu ludzkiego;
+- sytuacje i wydarzenia odwołujące się same do siebie (symulakry);
+- skoro tak, nic nie jest rzeczywiste.
+
+--------------
+
 Cztery poziomy odzwierciedlenia:
 
 1. stanowi odzwierciedlenie głębokiej rzeczywistości;
@@ -110,5 +118,38 @@ ustalny przez konsensus porządek który potem staje się procesem
 dekododowania i aranżacji medialnej poprzez przypisywanie pewnego
 moralnego znaczenia do danej czynności, np. zamachu.
 
+-------------
 
+Kiedy Baudrillard mówi o politykach (str 32-35) i podtrzymywaniu śmierci
+władzy i wszystkim z tym związanym, to mam jeden komentarz.
 
+W czasach, kiedy Russell i Gödel dochodzą do problemów w matematyce
+poprzez definicje odnoszące się do samych siebie (
+[Impredicativity](https://en.wikipedia.org/wiki/Impredicativity), oraz
+[film Veritasium o tym](https://www.youtube.com/watch?v=HeQX2HjkcNo) ),
+Baudrillard od razu wyciąga z tego wniosek, że hiperrzeczywistość, nie
+ma niczego godnego bycia prawdą, nie mamy pana płaszcza i co nam pan 
+teraz zrobi.
+
+Dla matematyki to też był – i nadal jest poważny problem, z poważnymi
+konsekwencjami, ale koniec końców skonstruowano takie definicje, taki
+system aksjomatyczny, że jesteśmy w stanie z tym żyć i funkcjonować.
+
+Więc ta narracja, że władza przedłuża śmierć samej siebie i wszystko
+przedłuża swoją śmierć jest dramatyczna i _cool_, ale jak to odrzemy
+z dramatyzmu to zostaje nam tyle, że ludzie generalnie nie chcą zmiany i
+chcą przedłużać status quo, nawet jeśli zaczyna ono odstawać od
+zmieniającej się codzienności. Władcy chcą przedłużać bycie władcami, 
+ludzie chcą przedłużać instytucje pod których skrzydłami się znajdują.
+
+Also, Kennedy był fajny i go zabili, a inni już nie, więc ich nie
+zabili i trzeba było symulować zamachy. *claps slowly*.
+
+Za to ciekawa obserwacja:
+
+> Hilter, Franco, Mao, pozbawieni "legalnych" spadkobierców, nie mając
+> komu przekazać władzy, zmuszeni są w nieskończoność przeżywać samych
+> siebie.
+
+Ładnie trafione. Biorąc pod uwagę, że dziś faszyści są rozdawani każdemu
+na lewo i prawo, to coś w tym jest, żyjemy nadal pod jarzmem IIWŚ.
