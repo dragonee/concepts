@@ -153,3 +153,12 @@ Za to ciekawa obserwacja:
 
 Ładnie trafione. Biorąc pod uwagę, że dziś faszyści są rozdawani każdemu
 na lewo i prawo, to coś w tym jest, żyjemy nadal pod jarzmem IIWŚ.
+
+Dalszy argument o równoważności dóbr konsumpcyjnych (samochodu) i pracy
+na płytkim poziomie rozumiem, ale nie rozumiem go dokładnie. Może warto
+będzie wrócić do niego później.
+
+> Nadal jesteśmy jednak świadkami tego samego: żadne z naszych
+> społeczeństw nie potrafi wykonać pracy żałoby po utracie tego,
+> co rzeczywiste i co padło łupem tej samej zatraty.
+>
