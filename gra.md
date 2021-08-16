@@ -267,3 +267,8 @@ gracze, i twórcy gry modyfikują stan systemu i przesuwają go w swoim
 kierunku.
 
 TODO: rozłam gry, wydzielanie podgier, innowacje i nisze
+
+# Ciekawe linki
+
+- [Game Balance Concepts](https://gamebalanceconcepts.wordpress.com/)
+- [This talk](https://www.youtube.com/watch?v=tR-9oXiytsk&ab_channel=GDC)
