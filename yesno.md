@@ -13,4 +13,4 @@ Banalne, nieprawdaż?
 - Zbyt ogólne / precyzyjne (inadequate-context)
 - https://en.wikipedia.org/wiki/Mu_(negative) (no-valid-answer)
 
-
+Problem logiczny: Nie są to pytania tak/nie, tylko A/B
