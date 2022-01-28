@@ -12,3 +12,7 @@
 - Parasocial relationships / interactions (np. https://www.researchgate.net/publication/247503642_Parasocial_Interaction_A_Review_of_the_Literature_and_a_Model_for_Future_Research)
 
 - https://en.wikipedia.org/wiki/Local_58 as a way of manipulating by maintaining cognitive dissonance
+
+https://en.wikipedia.org/wiki/Landauer%27s_principle
+
+https://en.wikipedia.org/wiki/Diegesis
