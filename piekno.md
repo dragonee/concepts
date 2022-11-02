@@ -27,3 +27,10 @@
 >
 > [źródło](https://www.youtube.com/watch?v=zxTwYdYzw8c#t=43m37s)
 
+https://lubimyczytac.pl/cytat/21555
+
+> Nie ma piękna, jeśli w nim leży krzywda człowieka. Nie ma prawdy, która tę krzywdę pomija. Nie ma dobra, które na nią pozwala.
+
+vs Nietzsche który wynosi piękno do absolutu
+
+Można byłoby też poszukać trójki (piękno;prawda;dobro) w innych ujęciach – bodajże ks. Tischner też się do tego odnosił (znalezione bodajże na kanale Szymon Mówi)
