@@ -23,7 +23,46 @@ najlepsze wytłumaczenia, inteligentne osoby z dużą płynnością językową
 są w stanie zrównać sobie ludzi i niejako nałożyć presję myślenia
 zgodnie z ich systemem moralnym.
 
+## Społeczno-intuicjonistyczny model sądów moralnych
 
+_2001, The Emotional Dog and Its Rational Tail_
+
+Założenia:
+
+- intuicje i reakcje emocjonalne są rodzajem poznania;
+- dychotomia emocje - rozumowanie jest błędna;
+
+Model:
+
+![Social Intuitionist Model](../images/haidt-social-intuitionist-model.jpg)
+
+Znowu, implikacje są duże. Po pierwsze, mamy tutaj zawartą
+pętlę zwrotną (1) → (4) → (1)' → (4)' która generuje wręcz natychmiastowy
+pozytywny lub negatywny feedback w zależności od tego, czy dwie osoby 
+mają takie same reakcje na zdarzenie. Feedback ten generuje emocje, które
+potem potrzebujemy rozwiązać.
+
+Jeśli ich nie ma, korzysta się z (3) i (3)', żeby ustalić wspólną wersję.
+
+Rzadko korzystamy z mechanizmów (5) i (6) – faktycznego rozumowego ustalania
+zasad moralnych.
+
+Dodatkowo, wiele innych rzeczy staje się możliwe.
+
+Na podstawie tej pętli zwrotnej następuje propagowanie i ustanawianie się konsensusu
+społecznego dotyczacego zachowań godnych i niecnych.
+
+Możemy wykorzystywać ten mechanizm (na poziomie rozumu), żeby też:
+- formować grupy
+- określać przynależność
+- dbać o reputację
+- pozyskiwać przychylność osób trzecich
+
+(dwa ostatnie to cytaty z książki).
+
+Od tego miejsca, zasad absolutnych dla całej społeczności wydaje się naturalnym
+oszczędzaniem energii, żebyśmy nie musieli w nieskończoność potwierdzać i obalać
+swoich sądów moralnych.
 
 # Inne odniesienia
 
