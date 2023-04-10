@@ -15,6 +15,7 @@ Pogrubione są czynności przeprowadzane przez Toastmastera Wieczoru.
 
 - Ktoś z zarządu: zapowiada TM Wieczoru
 - **TM: Wprowadzenie tematu – o czym dziś będzie spotkanie - 1min**
+  - **TM: Przedstawienie pytania dnia  
   - **TM: Zapowiedź Głównego Ewaluatora (GE)**
 - GE: Przedstawia zespół funkcyjny
   - Timer: wprowadzenie
