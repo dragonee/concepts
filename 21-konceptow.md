@@ -22,3 +22,5 @@
 20. Symulakrum
 21. Zniekształcona rzeczywistość (AI)
 
+Źródła:
+- [Mapa Trendów infuture.institute](https://infuture.institute/mapa-trendow/)
