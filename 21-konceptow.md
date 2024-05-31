@@ -108,7 +108,7 @@
     - Weźmy dowolny symbol i zrekontekstualizujmy go (8). Gdy zrobimy to odpowiednio wiele razy, symbol ten zatraci jakiekolwiek znaczenie i stanie sie oderwanym od rzeczywistości pustym naczyniem nowych znaczeń.
     - Więcej w [notatce Symulakry i Symulacja Jean Boudrillarda](books/symulakry-symulacja.md)
     - Przykład: Memy w internecie
-    - Przykład: Rozmycie pewnych pojęć politycznych
+    - Przykład: Rozmycie pewnych pojęć politycznych ([wywiad z prof. Matczakiem](https://www.youtube.com/watch?v=tc4dtZ9rFDM))
 21. Zniekształcona rzeczywistość (AI)
     - Część Mapy Trendów
     - Zniekształcona rzeczywistość pojawia się na skutek znaczącego spadku kosztów powstania treści internetowych dzięki narzędziom AI (głos, video, deep fakes, generowany tekst).
