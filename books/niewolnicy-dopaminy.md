@@ -1,6 +1,6 @@
 # Niewolnicy dopaminy, Anna Lembke
 
-> 2021, polskie wydanie
+> 2021, polskie wydanie, Zysk i s-ka 2023. Oryginalny tytuł: Dopamine nation
 
 Główna teza: istnieje mechanizm, który "jest skomplikowany", ale w książce opisany jest prostą metaforą – przyjemność i ból stanowią dwa przeciwstawne bieguny tego mechanizmu, który próbuje się samoregulować.
 
@@ -34,5 +34,22 @@ Tu opisany jest akronimem DOPAMINA
 - Nie generować w sobie żalu, poczucia winy – te tylko mogą wzmagać chęć ucieczki w przyjemność
 - Obserwować czy możemy się cieszyć z prostych przyjemności (park, spotkanie z ludźmi, itp.)
 - Generalnie uzależnienie wzmaga reakcje lękowe/bólowe i kontribuuje do pierwotnej przyczyny. Z czasem trzeba zająć się i tym i tym
+- Samoograniczanie czasowe jest sensowne do zmniejszenia 
+- Zjawisko **dyskontowania opóźnień**. Uzależnione osoby skracają swój horyzont czasowy otrzymania jakiejkolwiek nagody. Przykład (Warren K. Bickel) każe uczestnikom badania dokończyć historię zaczynającą się słowami "Po przebudzeniu Bill zaczął myśleć o swojej przyszłości, Ogólnie spodziewał się..." daje rezultaty uśrednione do 9 dni dla narkomanów, 4.7 lat dla ludzi nieuzależnionych.
+
+Metody ograniczania dostępu do czynników triggerujących uzależnienie są przydatne. Można:
+
+1. Stawiać bariery fizyczne (zmniejszając dostępność przez utrudnienie fizycznego dostępu; konieczność wykonania wielu kroków)
+2. Stwarzać ograniczenia czasowe (np. wyłączając dostęp do stron na czas pracy; nawet stosując technikę pomodoro)
+3. Odraczać uzależnienia w czasie celowo (np. jasno dając sobie nagrodę jako nagrodę – a nie zawsze)
+4. Angażować w procesy zwiększające świadomość (np. zapalę papierosa, ale przed tym zapiszę o tym informację w dzienniku)
+   1. Najgorsze, z punktu widzenia odstawienia, są sytuacje niezauważane a powtarzane często (np. liczba sięgnięć po Instagrama w wyniku pojawienia się najmniejszej oznaki nudy)
+5. Kategoryzacja czynności na: 
+   1. Dozwolone / niedozwolone – tu uwaga na: 1) problemy kiedy trigger przypadkowo jest w kategorii dozwolonych czynności; 2) kiedy zewnętrzne siły zmieniają dostępność dozwolonych rzeczy (przykład: bezglutenowe słodycze, chleb, wysokowęglowodanowe przekąski)
+      1. Tu racjonalizacja: niedozwolone = nie pomaga w przyszłości jest mega wartościowa
+   2. Sakrum i profanum (w książce opisane jako deifikacja zabronionego) – sytuacje kiedy dana czynność jest albo "all-in akceptowana przez całego człowieka w wyjątkowych okolicznościach" albo "dostępna codziennie bez świadomości"
+   3. Jeśli utrzymamy kategoryzację przez długi czas, może stać się częścią naszego systemu moralnego, co samo w sobie przynosi bardzo dużo poczucia wartości dla siebie.
+
+Uwaga: należy uważać na sytuację, kiedy zaczynamy marzyć za czynnikiem uzależniającym.
 
 Jestem ciekaw, jak autorka odniosłaby się do popularnego, ale też wzbudzającego kontrowersje "dopaminowego detoksu".
