@@ -52,4 +52,32 @@ Metody ograniczania dostępu do czynników triggerujących uzależnienie są prz
 
 Uwaga: należy uważać na sytuację, kiedy zaczynamy marzyć za czynnikiem uzależniającym.
 
+## Hormeza
+
+Wedle autorki termin ten oznacza dziedzinę nauki, w której bada się korzystne skutki podawania małych dawek szkodliwych czynników takich jak ciepło/zimno, ograniczanie żywności, ćwiczenia, ale również radiacja.
+
+Dobre przykłady:
+
+- zimny prysznic / sauna;
+- post od żywności / kategorii żywności;
+- ćwiczenia fizyczne i ruch;
+
+Po wprowadzeniu farmakoterapii spadła ilość popularnych wcześniej metod leczniczych opierających się o wprowadzanie ciała w stan bólu – ale ostatnio do tego powrócono.
+
+"Ból wypiera ból" – silniejszy ból potrafi zastąpić mniej silny ból, a poźniejszy ból potrafi zastąpić wcześniejszy, w tym ból psychiczny. Przykład: w bardzo trudnej sytuacji emocjonalnej można wziąć kostki lodu i nacierać nimi ręce, aby odwrócić uwagę od stresu/bólu wywołanego przez sytuację, w jakiej się znajdujemy.
+
+Warto się wystawiać w kontrolowany sposób na czynniki które czynią w nas dyskomfort:
+
+- rozwija to tolerancję na strach/ból (trzeba uważać, żeby się nie zapuścić za daleko, nie jest ok, kiedy nic nie robimy kiedy ból nas codziennie ogarnia);
+- zwiększa nasze możliwości również w innych sytuacjach, choć nie zawsze się to uogólnia na różne czynności.
+
+> Ból leczy ból. Lęk leczy lęk. To podejście jest sprzeczne
+> z intuicją i dokładnie odwrotne do tego, czego uczono nas przez ostatnie 150 lat o tym, jak radzić sobie z chorobami, niepokojem i dyskomfortem
+> 
+> _s. 170_
+
+Wartościowa jest tu metafora mięśnia – mięsień ćwiczony staje się mocniejszy, dopóki go nie naderwiemy. 
+
+## Open questions
+
 Jestem ciekaw, jak autorka odniosłaby się do popularnego, ale też wzbudzającego kontrowersje "dopaminowego detoksu".
