@@ -81,3 +81,8 @@ Wartościowa jest tu metafora mięśnia – mięsień ćwiczony staje się mocn
 ## Open questions
 
 Jestem ciekaw, jak autorka odniosłaby się do popularnego, ale też wzbudzającego kontrowersje "dopaminowego detoksu".
+
+## Powiązania
+
+- Możliwe, że [Forged in Darkness](https://www.goodreads.com/book/show/60099550-forged-in-darkness) byłoby Jungowskim odpowiednikiem tej książki – w aspekcie akceptacji bólu. [Ana Yudin w tym filmie](https://www.youtube.com/watch?v=8uLyGf-TbGM) wprowadza rozgraniczenie między bólem, który jest (i jest nieuchronny) oraz cierpieniem (_suffering_), które jest złożone z bólu i braku jego akceptacji/opieraniem się mu
+
