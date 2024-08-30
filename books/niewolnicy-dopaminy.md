@@ -85,4 +85,4 @@ Jestem ciekaw, jak autorka odniosłaby się do popularnego, ale też wzbudzając
 ## Powiązania
 
 - Możliwe, że [Forged in Darkness](https://www.goodreads.com/book/show/60099550-forged-in-darkness) byłoby Jungowskim odpowiednikiem tej książki – w aspekcie akceptacji bólu. [Ana Yudin w tym filmie](https://www.youtube.com/watch?v=8uLyGf-TbGM) wprowadza rozgraniczenie między bólem, który jest (i jest nieuchronny) oraz cierpieniem (_suffering_), które jest złożone z bólu i braku jego akceptacji/opieraniem się mu
-
+- Filmik [The mindset that is slowly destroying your life](https://www.youtube.com/watch?v=Iz3P0Kdcf4k) jest też powiązany z tym tematem, pokazuje "should" vs. "want" vs "need" i wskazuje na to, że często mieszamy te rzeczy i często rzeczy, które są "need" stają się "should" a przestają być "want". I zanurzamy się w rzeczach które dają nam wygodę niemyślenia o rzeczach które warto robić. Jako kontra jest za to to, że możemy czerpać przyjemność z robienia rzeczy których potrzebujemy, bo ich skutek jest dla nas wewnętrznie postrzegany jako dobry.
