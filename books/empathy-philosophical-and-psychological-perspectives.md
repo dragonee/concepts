@@ -87,3 +87,4 @@ In contrast to other sources, literature on empathic accuracy conceptualizes tha
 - self-object - our understading of the sense of self through others, Heinz Kohut, self psychology
 - state empathy and trait empathy
 
+(finished at introduction, xxv)
