@@ -3,6 +3,7 @@
 
 - <https://en.wikipedia.org/wiki/I-Space_(conceptual_framework)>
   - from wiki – early inspiration for Cynefin, see <https://thecynefin.co/part-one-origins-of-cynefin/>
+  - <https://conikeec.substack.com/p/navigating-the-information-space>
 - Nonaka & Takeuchi’s SECI model of knowledge creation
 - Kolb's ELT
   - from Wiki: inspired by the work of the gestalt psychologist Kurt Lewin, as well as John Dewey and Jean Piaget
