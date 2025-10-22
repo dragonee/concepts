@@ -10,8 +10,8 @@
   - <https://experianta.com/wp-content/uploads/2021/04/styles-2.png>
   - Kolb Learning Styles Inventory 4.0
   - <https://learningfromexperience.com/downloads/research-library/the-kolb-learning-style-inventory-4-0.pdf>
-- Criticism from wiki: https://en.wikipedia.org/wiki/OODA_loop
-- https://psycnet.apa.org/record/2009-08806-001
+- Criticism from [wiki](https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning#Criticisms): <https://en.wikipedia.org/wiki/OODA_loop>
+- <https://psycnet.apa.org/record/2009-08806-001>
 
 ## Against TBR (Training from the Back of the Room)
 
@@ -20,13 +20,13 @@ See: <https://chatgpt.com/share/68f91949-1d5c-8002-8fc5-dcfecb8389c2>
 - <https://tommydinuri.medium.com/maximize-your-training-workshop-using-4cs-training-from-the-back-of-the-room-69a4ef8bab2d>
 
 > Integrative Model (Visual Idea)
-
+> 
 > Imagine:
-
+> 
 > Kolb’s cycle as a horizontal cognitive loop (experience → reflection → concept → action)
-
+>
 > TBR’s 4Cs as vertical scaffolding (classroom structure that guides movement through that loop repeatedly)
-
+>
 > They form a spiral learning architecture — each iteration increasing complexity, ownership, and abstraction.
 
 | **Kolb’s Cycle**                                                            | **TBR Framework**                                                                                   | **Conceptual Overlap**                                                               |
