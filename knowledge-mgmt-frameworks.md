@@ -14,6 +14,24 @@
 - Criticism from [wiki](https://en.wikipedia.org/wiki/Kolb%27s_experiential_learning#Criticisms): <https://en.wikipedia.org/wiki/OODA_loop>
 - <https://psycnet.apa.org/record/2009-08806-001>
 
+## Comparision of different models
+
+Link: <https://chatgpt.com/share/68f920b3-3aa0-8002-bd9a-b0b7ea4154f1>
+
+| Model                  | Core Process                                      | What Makes It Dynamic        | Best Context                       |
+| ---------------------- | ------------------------------------------------- | ---------------------------- | ---------------------------------- |
+| **Kolb**               | Experience → Reflect → Conceptualize → Experiment | Learner cycles through modes | Foundational experiential learning |
+| **Boud/Walker**        | Reflection central to learning                    | Emotion/context matter       | Professional learning              |
+| **Gibbs**              | Structured emotional reflection                   | Actionable feedback loop     | Clinical/teacher training          |
+| **SECI**               | Tacit↔Explicit knowledge spiral                   | Expands collectively         | Org/knowledge management           |
+| **I-Space**            | Flow through codification/diffusion               | Information ecology          | Complex adaptive orgs              |
+| **Expansive Learning** | Contradiction-driven growth                       | System-level evolution       | Teams, innovation                  |
+| **Double Loop**        | Challenge assumptions                             | Adaptive self-correction     | Strategic learning                 |
+| **Design Thinking**    | Empathize–Iterate                                 | Rapid prototyping feedback   | Creative & agile contexts          |
+| **TBR**                | Connect–Practice–Commit                           | Rapid, brain-based cycles    | Facilitation/training              |
+
+
+
 ## Against TBR (Training from the Back of the Room)
 
 See: <https://chatgpt.com/share/68f91949-1d5c-8002-8fc5-dcfecb8389c2>
