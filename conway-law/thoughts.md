@@ -13,3 +13,7 @@ Ograniczenie: techniczne, bo okazuje się, że OOMy zaliczamy na aplikacji
 Na Estuarine Mappingu, wektor [t,e] narzutu komunikacyjnego może być różny dla różnych organizacji.
 
 ROZKMINIĆ – jakie są konsekwencje?
+
+## Energy + plotki
+
+Czyli jakie metody alignmentu masz
