@@ -13,15 +13,19 @@
    surgical case of representation engineering, as opposed to
    retraining.
 
-*Etymology*: blend of **abl**ation + ob**literation**; coined by
-Maxime Labonne (2024) on the method of Arditi et al. Pronounced,
+*Etymology*: blend of **abl**ation + ob**literation** — to ablate
+a feature to the point of obliterating it. Coined by the Reddit
+user /u/FailSpai (FailSpy) in early 2024, popularized by Maxime
+Labonne's write-up of the method of Arditi et al. Pronounced,
 conveniently, almost exactly like the word it eats.
 
 *Derived forms*: **abliterate** *(verb)*; **abliterated**
 *(adjective)*; **abliterator** *(noun)*.
 
-> "Llama-3-8B-Instruct-abliterated answers everything, and is
-> measurably dumber for it."
+> "The ablation process successfully uncensored it but also
+> degraded the model's quality."
+>
+> — Maxime Labonne, *Uncensor any LLM with abliteration* (2024)
 
 ## Notes
 
@@ -54,3 +58,7 @@ idea from a mind that never stored ideas separately.
 - [Refusal in Language Models Is Mediated by a Single
   Direction](https://arxiv.org/abs/2406.11717) — Arditi et al.,
   2024
+- [abliterator](https://github.com/FailSpy/abliterator) — FailSpy,
+  the library the word came with
+- [abliterate](https://en.wiktionary.org/wiki/abliterate) —
+  Wiktionary, on the coinage
